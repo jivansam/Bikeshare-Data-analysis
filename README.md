@@ -9,25 +9,34 @@ BUSINESS TASK:
 Company wants to ensure that more and more people should join annual membership as it brings more profits to the company.Goal is to convert the casual riders into cyclist members.
 
 DELIVERABLES:
-1. A clear statement of the business task 
+1. A clear statement of the business task
+   
 Business ask is to convert existing casual riders into annual members using digital marketing and  advertising.
+
 2. A description of al data sources used 
+
 The data has been made available by Motivate International Inc. under this license.
-3. Documentation of any cleaning or manipulation of data 
+
+4. Documentation of any cleaning or manipulation of data 
+
 Removed unwanted coloumns.Separated data into day , date, hour. Created a new coloumn called trip duration.Calculated average, counted station name based on casual riders.
 
 Q: difference between casual rides and annual members?
+
 A: The difference between as per the available data and its limitation is the frequence of their rides, which is Weekends. Casual rides are more during the weekends.
 
 Q:why a casual rider buy a annual membership?
+
 A:We can offer discounts on Annual membership.
   We can create a new Annual Plan only on weekends, which can attract casual riders as they tend to use the services during weekend only.
 
 
 Q:how to use digital marketing into effect?
+
 A:Put banners and digital ads talking about discounts and customer experience in the area where the frequency of the casual riders is the most.
 
 This station has most no of bookings from
+
 Clark St & Elm St.
 246	
   
@@ -37,12 +46,13 @@ Include a new plan for weekends as a part of annual membership.
 Introduce an limited time offer price for annual membership.		
 	
  
-Casual	Member
+                   Casual	  Member
+
 Average Trip	23.14163982	16.02502906
 
  Conclusion
 
- It can be seen from the graphs that cyclist subscribers use the bikes consistently every day for a brief period of time, but customers utilize them more inconsistently. On average, customers ride for significantly longer periods of time than subscribers, yet they ride bikes less often during the week and more on Saturdays and Sundays. In short, customers mostly use the service for leisure and enjoyment, while subscribers utilize it primarily for transportation for their everyday routines.
+It can be seen from the graphs that cyclist subscribers use the bikes consistently every day for a brief period of time, but customers utilize them more inconsistently. On average, customers ride for significantly longer periods of time than subscribers, yet they ride bikes less often during the week and more on Saturdays and Sundays. In short, customers mostly use the service for leisure and enjoyment, while subscribers utilize it primarily for transportation for their everyday routines.
 
 **Key Recommendations**
 
